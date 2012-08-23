@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/artifi/glossy.png)](http://travis-ci.org/artifi/glossy)
 glossy
 ===========
 
